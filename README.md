@@ -31,11 +31,20 @@ This repository contains the code, including demonstration video and screenshots
 
 ## 🎥 Video Walkthroughs
 
-Add your demo and explanation videos below:
-
 * *Integration Video:* [https://drive.google.com/file/d/1ZAzeM6BtFAXAnvCFmNgAzOZsDvojFg1i/view?usp=sharing]
 
 ---
+
+## Screenshots
+<img width="859" height="896" alt="Screenshot 2025-11-29 113853" src="https://github.com/user-attachments/assets/8e2865b7-dadc-465b-a036-471786de5a84" />
+<img width="805" height="667" alt="Screenshot 2025-11-29 113223" src="https://github.com/user-attachments/assets/4e9a3aff-f7af-4620-99d1-f60970fd3da3" />
+<img width="1642" height="791" alt="Screenshot 2025-11-27 222750" src="https://github.com/user-attachments/assets/b67704f3-782f-4d43-82d2-79d9a31dabb5" />
+<img width="1900" height="914" alt="Screenshot 2025-11-27 212808" src="https://github.com/user-attachments/assets/6f7b2692-b7ff-4d60-8f31-71e9997a2bb4" />
+<img width="1423" height="919" alt="Screenshot 2025-11-27 210823" src="https://github.com/user-attachments/assets/6428fc90-6598-4e6f-aaa9-8e93925ef686" />
+<img width="1907" height="922" alt="Screenshot 2025-11-27 211103" src="https://github.com/user-attachments/assets/52a3a6bb-f5cd-47b5-9b68-9eff82e3e64e" />
+
+---
+
 
 ## 📬 Contact
 
