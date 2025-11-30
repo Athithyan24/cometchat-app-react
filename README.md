@@ -10,4 +10,40 @@
   <img alt="typescript" src="https://img.shields.io/badge/typescript-supported-blue" />
 </p>
 
-# Integration steps for UI Kit Builder
+# Job Application Submission
+
+Thank you for reviewing this submission. Below is an overview of the project, along with helpful links and a section for video demonstrations.
+
+---
+
+## 📄 Overview
+
+This repository contains the code, including demonstration video and screenshots
+
+---
+
+## 🔗 Useful Links
+
+* *Documentation:* [https://drive.google.com/file/d/1_r91tTIXLWwRgEjHBkRuWGU2svf_Ur0g/view?usp=sharing]
+* *LinkedIn Profile:* [https://www.linkedin.com/in/a-athithyan-4213981b6/]
+
+---
+
+## 🎥 Video Walkthroughs
+
+Add your demo and explanation videos below:
+
+* *Integration Video:* [https://drive.google.com/file/d/1ZAzeM6BtFAXAnvCFmNgAzOZsDvojFg1i/view?usp=sharing]
+
+---
+
+## 📬 Contact
+
+If you need any additional information, feel free to reach out.
+
+* *Email:* [athithabi2003@gmail.com](athithabi2003@gmail.com)
+* *Phone:* +91-7871307653
+
+---
+
+Thank you for your time and consideration!
