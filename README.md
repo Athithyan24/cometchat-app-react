@@ -36,6 +36,7 @@ This repository contains the code, including demonstration video and screenshots
 ---
 
 ## Screenshots
+This section includes screenshots of some bugs and errors i noticed during initialization, as well as UI issues observed during testing. You can find more details in the documentation.
 <img width="1642" height="791" alt="Screenshot 2025-11-27 222750" src="https://github.com/user-attachments/assets/b67704f3-782f-4d43-82d2-79d9a31dabb5" />
 <img width="1900" height="914" alt="Screenshot 2025-11-27 212808" src="https://github.com/user-attachments/assets/6f7b2692-b7ff-4d60-8f31-71e9997a2bb4" />
 <img width="1423" height="919" alt="Screenshot 2025-11-27 210823" src="https://github.com/user-attachments/assets/6428fc90-6598-4e6f-aaa9-8e93925ef686" />
