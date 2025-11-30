@@ -12,7 +12,7 @@
 
 # Job Application Submission
 
-Thank you for reviewing this submission. Below is an overview of the project, along with helpful links and a section for video demonstrations.
+Hi Sir/Mam, I'm Athithyan, Thank you for reviewing this submission. Below is an overview of the project, along with helpful links and a section for video demonstrations.
 
 ---
 
